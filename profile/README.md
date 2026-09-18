@@ -20,7 +20,7 @@ Building context-engineering systems and deep agents that wrap Claude, Codex, an
 | Repo | Role |
 |------|------|
 | [`PetarVukovic/knowlith`](https://github.com/PetarVukovic/knowlith) | Product (daemon / brain / MCP) |
-| `knowlith-site` | Marketing site + docs *(coming)* |
+| [`bethel-ai-labs/knowlith-site`](https://github.com/bethel-ai-labs/knowlith-site) | Marketing site + docs |
 
 ## Contact
 
